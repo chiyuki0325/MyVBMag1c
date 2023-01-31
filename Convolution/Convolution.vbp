@@ -1,11 +1,12 @@
 Type=Exe
+Form=Form1.frm
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#\\?\C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
-Module=modBase64Encode; modBase64Encode.bas
-Startup="Sub Main"
+IconForm="Form1"
+Startup="Form1"
 HelpFile=""
-Title="Base64Encode"
+ExeName32="Èü²©°ü½¬.exe"
 Command32=""
-Name="Base64Encode"
+Name="Convolution"
 HelpContextID="0"
 CompatibleMode="0"
 MajorVer=1
